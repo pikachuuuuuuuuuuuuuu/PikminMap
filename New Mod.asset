@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: PikminMaps
   _author: pika450
-  _version: 1.0.0
+  _version: 1.0.1
   _description: Adds the impact site from Pikmin 1 as a map.
-  _websiteUrl: 
+  _websiteUrl: https://github.com/pikachuuuuuuuuuuuuuu/PikminMap
   _dependencies:
   - Zehs-REPOLib-2.1.0
   _icon: {fileID: 21300000, guid: ec5906683d815f64f962744accc7724a, type: 3}
-  _readme: {fileID: 0}
+  _readme: {fileID: 4900000, guid: 34ef38dc0aacf284f83250afc1117fd0, type: 3}
