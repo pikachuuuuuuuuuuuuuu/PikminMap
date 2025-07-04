@@ -38,7 +38,7 @@ MonoBehaviour:
   ModulesExtraction3: []
   ValuablePresets:
   - {fileID: 11400000, guid: e4465ec02b43365489dd3d06cbea4c82, type: 2}
-  MusicPreset: {fileID: 0}
+  MusicPreset: {fileID: 11400000, guid: 45c2cd1b821038d4a947c1e1769d4604, type: 2}
   ConstantMusicPreset: {fileID: 0}
   AmbiencePresets:
   - {fileID: 11400000, guid: 16abd757ddfc3634fba60a9a44e548b8, type: 2}
