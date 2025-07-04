@@ -781,27 +781,27 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moduleOwner: 0
-  wallsInside: 1
-  wallsMap: 1
-  levelPointsEntrance: 1
-  levelPointsWaypoints: 1
-  levelPointsRoomVolume: 1
-  levelPointsNavmesh: 1
-  levelPointsConnected: 1
-  lightsMax: 1
-  lightsPrefab: 1
-  roomVolumeDoors: 1
-  roomVolumeHeight: 1
-  roomVolumeSpace: 1
-  navmeshConnected: 1
-  navmeshPitfalls: 1
+  wallsInside: 0
+  wallsMap: 0
+  levelPointsEntrance: 0
+  levelPointsWaypoints: 0
+  levelPointsRoomVolume: 0
+  levelPointsNavmesh: 0
+  levelPointsConnected: 0
+  lightsMax: 0
+  lightsPrefab: 0
+  roomVolumeDoors: 0
+  roomVolumeHeight: 0
+  roomVolumeSpace: 0
+  navmeshConnected: 0
+  navmeshPitfalls: 0
   valuablesAllTypes: 1
   valuablesMaxed: 1
   valuablesSwitch: 1
   valuablesSwitchNavmesh: 1
   valuablesTest: 1
-  ModulePropSwitchSetup: 1
-  ModulePropSwitchNavmesh: 1
+  ModulePropSwitchSetup: 0
+  ModulePropSwitchNavmesh: 0
   Explored: 1
 --- !u!114 &989040670697704979
 MonoBehaviour:
