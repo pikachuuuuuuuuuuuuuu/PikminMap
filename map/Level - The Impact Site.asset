@@ -12,18 +12,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 409054382c13ee7d4e9126c1b58d3c2b, type: 3}
   m_Name: Level - The Impact Site
   m_EditorClassIdentifier: 
-  ResourcePath: 
-  NarrativeName: 
+  ResourcePath: ya crashed
+  NarrativeName: The Impact site
   ModuleAmount: 0
   PassageMaxAmount: 0
-  HasEnemies: 1
+  HasEnemies: 0
   ConnectObject: {fileID: 0}
   BlockObject: {fileID: 0}
   StartRooms:
   - {fileID: 369214501561478418, guid: f63c9c9de4ea1f640ab060bcb2b339ba, type: 3}
-  LoadingGraphic01: {fileID: 0}
-  LoadingGraphic02: {fileID: 0}
-  LoadingGraphic03: {fileID: 0}
+  LoadingGraphic01: {fileID: 21300000, guid: 240d7470a6a68c54da25621cd3e14df8, type: 3}
+  LoadingGraphic02: {fileID: 21300000, guid: 240d7470a6a68c54da25621cd3e14df8, type: 3}
+  LoadingGraphic03: {fileID: 21300000, guid: 240d7470a6a68c54da25621cd3e14df8, type: 3}
   ModulesNormal1: []
   ModulesPassage1: []
   ModulesDeadEnd1: []
@@ -42,7 +42,7 @@ MonoBehaviour:
   ConstantMusicPreset: {fileID: 0}
   AmbiencePresets:
   - {fileID: 11400000, guid: 16abd757ddfc3634fba60a9a44e548b8, type: 2}
-  FogColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 0}
+  FogColor: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   FogStartDistance: 0
   FogEndDistance: 180
   AmbientColor: {r: 0, g: 0, b: 0.2, a: 1}
