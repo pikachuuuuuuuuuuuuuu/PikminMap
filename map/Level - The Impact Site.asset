@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ResourcePath: 
   NarrativeName: 
-  ModuleAmount: 1
-  PassageMaxAmount: 2
+  ModuleAmount: 0
+  PassageMaxAmount: 0
   HasEnemies: 1
   ConnectObject: {fileID: 0}
   BlockObject: {fileID: 0}
