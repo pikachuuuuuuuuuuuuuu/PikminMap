@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _name: PikminMaps
   _author: pika450
-  _version: 1.0.5
+  _version: 1.0.6
   _description: Adds the impact site from Pikmin 1 as a map.
   _websiteUrl: https://github.com/pikachuuuuuuuuuuuuuu/PikminMap
   _dependencies:
